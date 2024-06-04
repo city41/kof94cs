@@ -1,6 +1,7 @@
 Benimaru
 
-DP+P       Raijin Ken
-QCF+K      Iai Geri
-HCB+K      Shinkuu Katategoma
-QCF,QCF+C  Raikou Ken (DM)
+DP+P         Raijin Ken
+D+K (in air) Foot drill
+QCF+K        Iai Geri
+HCB+K        Shinkuu Katategoma
+QCF,QCF+C    Raikou Ken (DM)

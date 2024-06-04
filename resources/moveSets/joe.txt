@@ -2,6 +2,6 @@ Joe
 
 tap P     Bakuretsu Ken
 HCF+P     Hurricane Upper (FB)
-cDB,UF+K  Slash Kick (AA)
-QCF,UF+K  Tiger Kick
+cDB,UF+K  Slash Kick
+QCF,UF+K  Tiger Kick (AA)
 F,HCF+BC  Screw upper (DM)

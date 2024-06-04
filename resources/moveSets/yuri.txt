@@ -2,7 +2,7 @@ Yuri
 
 QCF+P       Ko'ou Ken (FB)
 QCB+P       Saiha 
-DP+P        Hyaku Retsu Binta
+DP+P        Hyaku Retsu Binta (CG)
 QCF+K       Raiou Ken
 F,HCF+P     Haoh Shou Kou Ken (FB)
 F,B,HCB+BC  Hien Hou'Ou Kyaku (DM)

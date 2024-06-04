@@ -2,5 +2,5 @@ Heavy D
 
 DP+P       Rolling Soul Diver
 HCF+P      Soul Flower
-QCF,UF+P   Blast Upper
-QCF,HCB+C  D. Crazy
+QCF,UF+K   Blast Upper
+QCF,HCB+C  D. Crazy (DM)

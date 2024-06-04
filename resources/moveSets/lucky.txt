@@ -3,4 +3,4 @@ Lucky
 QCF+P      Death Bound
 QCB,UB+K   Cyclone Break
 HCF+K      Lucky Vision
-QCB,HCF+B  Hell Bound (DM)
+QCB,DB,F+B  Hell Bound (DM)

@@ -2,6 +2,6 @@ Terry
 
 QCF+P         Power Wave (FB)
 QCB+P         Burn Knuckle
-QCB,UB+K      Crack Shoot
 cD,U+P        Rising Tackle (AA)
-QCB,DB,F+BC   Power Geyser
+QCB,UB+K      Crack Shoot
+QCB,DB,F+BC   Power Geyser (DM)

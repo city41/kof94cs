@@ -1,7 +1,7 @@
 Heidern
 
-cB,F+P  Cross Cutter (FB)
-cd,U+P  Moon Slasher (AA)
-cD,U+K  Neck Roller
-HCB+C   Storm Bringer
-cBC     Final Bringer (DM)
+cB,F+P        Cross Cutter (FB)
+cd,U+P        Moon Slasher (AA)
+cD,U+K        Neck Roller
+HCB+C         Storm Bringer (CG)
+cB,DB,D,U+BC  Final Bringer (DM)

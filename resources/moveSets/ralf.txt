@@ -2,5 +2,5 @@ Ralf
 
 tap P      Vulcan Punch
 cB,F+P     Gatling Attack
-HCF+D      Super Argentine Backbreaker
+HCF+D      Super Argentine Backbreaker (CG)
 cDB,B,F+C  Bari Bari Vulcan Punch (DM)
