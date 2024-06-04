@@ -5,16 +5,200 @@
     "end": "bfff0"
   },
   "symbols": {
+    "BIOS_PLAYER_MOD1": "10fdb6",
+    "BIOS_PLAYER_MOD2": "10fdb7",
     "MOVEM_STORAGE": "10f500",
     "WROTE_A_MOVESET": "10f600"
   },
   "patches": [
     {
       "type": "prom",
+      "description": "Heidern's moves",
+      "subroutine": true,
+      "symbol": "HEIDERN",
+      "patchAsm": "heidern.asm"
+    },
+    {
+      "type": "prom",
+      "description": "Ralf's moves",
+      "subroutine": true,
+      "symbol": "RALF",
+      "patchAsm": "ralf.asm"
+    },
+    {
+      "type": "prom",
+      "description": "Clark's moves",
+      "subroutine": true,
+      "symbol": "CLARK",
+      "patchAsm": "clark.asm"
+    },
+    {
+      "type": "prom",
+      "description": "Athena's moves",
+      "subroutine": true,
+      "symbol": "ATHENA",
+      "patchAsm": "athena.asm"
+    },
+    {
+      "type": "prom",
+      "description": "Sie's moves",
+      "subroutine": true,
+      "symbol": "SIE",
+      "patchAsm": "sie.asm"
+    },
+    {
+      "type": "prom",
+      "description": "Chin's moves",
+      "subroutine": true,
+      "symbol": "CHIN",
+      "patchAsm": "chin.asm"
+    },
+    {
+      "type": "prom",
+      "description": "Kyo's moves",
+      "subroutine": true,
+      "symbol": "KYO",
+      "patchAsm": "kyo.asm"
+    },
+    {
+      "type": "prom",
+      "description": "Beni's moves",
+      "subroutine": true,
+      "symbol": "BENI",
+      "patchAsm": "beni.asm"
+    },
+    {
+      "type": "prom",
+      "description": "Goro's moves",
+      "subroutine": true,
+      "symbol": "GORO",
+      "patchAsm": "goro.asm"
+    },
+    {
+      "type": "prom",
+      "description": "Heavy's moves",
+      "subroutine": true,
+      "symbol": "HEAVY",
+      "patchAsm": "heavy.asm"
+    },
+    {
+      "type": "prom",
+      "description": "Lucky's moves",
+      "subroutine": true,
+      "symbol": "LUCKY",
+      "patchAsm": "lucky.asm"
+    },
+    {
+      "type": "prom",
+      "description": "Brian's moves",
+      "subroutine": true,
+      "symbol": "BRIAN",
+      "patchAsm": "brian.asm"
+    },
+    {
+      "type": "prom",
+      "description": "Kim's moves",
+      "subroutine": true,
+      "symbol": "KIM",
+      "patchAsm": "kim.asm"
+    },
+    {
+      "type": "prom",
+      "description": "Chang's moves",
+      "subroutine": true,
+      "symbol": "CHANG",
+      "patchAsm": "chang.asm"
+    },
+    {
+      "type": "prom",
+      "description": "Choi's moves",
+      "subroutine": true,
+      "symbol": "CHOI",
+      "patchAsm": "choi.asm"
+    },
+    {
+      "type": "prom",
       "description": "terry's moves",
       "subroutine": true,
       "symbol": "TERRY",
       "patchAsm": "terry.asm"
+    },
+    {
+      "type": "prom",
+      "description": "Andy's moves",
+      "subroutine": true,
+      "symbol": "ANDY",
+      "patchAsm": "andy.asm"
+    },
+    {
+      "type": "prom",
+      "description": "Joe's moves",
+      "subroutine": true,
+      "symbol": "JOE",
+      "patchAsm": "joe.asm"
+    },
+    {
+      "type": "prom",
+      "description": "Ryo's moves",
+      "subroutine": true,
+      "symbol": "RYO",
+      "patchAsm": "ryo.asm"
+    },
+    {
+      "type": "prom",
+      "description": "Robert's moves",
+      "subroutine": true,
+      "symbol": "ROBERT",
+      "patchAsm": "robert.asm"
+    },
+    {
+      "type": "prom",
+      "description": "Takuma's moves",
+      "subroutine": true,
+      "symbol": "TAKUMA",
+      "patchAsm": "takuma.asm"
+    },
+    {
+      "type": "prom",
+      "description": "Yuri's moves",
+      "subroutine": true,
+      "symbol": "YURI",
+      "patchAsm": "yuri.asm"
+    },
+    {
+      "type": "prom",
+      "description": "Mai's moves",
+      "subroutine": true,
+      "symbol": "MAI",
+      "patchAsm": "mai.asm"
+    },
+    {
+      "type": "prom",
+      "description": "King's moves",
+      "subroutine": true,
+      "symbol": "KING",
+      "patchAsm": "king.asm"
+    },
+    {
+      "type": "prom",
+      "description": "Rugal's moves",
+      "subroutine": true,
+      "symbol": "RUGAL",
+      "patchAsm": "rugal.asm"
+    },
+    {
+      "type": "prom",
+      "description": "Second form Rugal's moves",
+      "subroutine": true,
+      "symbol": "SECFORM_R_U_G_A_L",
+      "patchAsm": "rugal2.asm"
+    },
+    {
+      "type": "prom",
+      "description": "Character move set pointer table",
+      "subroutine": true,
+      "symbol": "CHARID_TO_MOVE_SET",
+      "patchAsm": "charIdToMoveSet.asm"
     },
     {
       "type": "prom",
