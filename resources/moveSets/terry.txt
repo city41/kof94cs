@@ -1,0 +1,7 @@
+TERRY
+
+QCF+P         Power Wave
+QCB+P         Burn Knuckle
+QCB,UB+K      Crack Shoot
+CD,U+P        Rising Tackle
+QCB,DB,F+BC   Power Geyser
