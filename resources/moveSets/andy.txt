@@ -1,7 +1,7 @@
-ANDY
+Andy
 
 QCF+P     Shouryu Dan (AA)
 QCB+P     Hishou Ken  (FB)
-CDB,F+P   Zanei Ken
-CDB,UF+K  Kuuha Dan
-CD,QCF+BD Chou Reppa Dan
+cDB,F+P   Zanei Ken
+cDB,UF+K  Kuuha Dan
+cD,QCF+BD Chou Reppa Dan (DM)

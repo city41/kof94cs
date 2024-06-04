@@ -1,3 +1,7 @@
-JOE
+Joe
 
-TODO
+tap P     Bakuretsu Ken
+HCF+P     Hurricane Upper (FB)
+cDB,UF+K  Slash Kick (AA)
+QCF,UF+K  Tiger Kick
+F,HCF+BC  Screw upper (DM)

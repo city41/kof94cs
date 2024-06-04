@@ -1,3 +1,6 @@
-LUCKY
+Lucky
 
-TODO
+QCF+P      Death Bound
+QCB,UB+K   Cyclone Break
+HCF+K      Lucky Vision
+QCB,HCF+B  Hell Bound (DM)

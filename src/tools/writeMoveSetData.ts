@@ -1,7 +1,7 @@
 import path from "node:path";
 import fsp from "node:fs/promises";
 
-const FIX_STARTING_ADDRESS = 0x7028;
+const FIX_STARTING_ADDRESS = 0x7027;
 const FIX_LINE_LENGTH = 38;
 
 function toFixAsm(input: string): string {

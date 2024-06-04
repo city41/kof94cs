@@ -1,3 +1,6 @@
-RALF
+Ralf
 
-TODO
+tap P      Vulcan Punch
+cB,F+P     Gatling Attack
+HCF+D      Super Argentine Backbreaker
+cDB,B,F+C  Bari Bari Vulcan Punch (DM)

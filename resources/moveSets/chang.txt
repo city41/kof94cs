@@ -1,3 +1,6 @@
-CHANG
+Chang
 
-TODO
+tap P      Tekkyu Dai Kaiten
+cB,F+P     Tekkyu Funsai Geki
+cD,U+K     Tekkyu Hien Zan
+QCF,HCB+C  Tekkyu Dai Bousou (DM)

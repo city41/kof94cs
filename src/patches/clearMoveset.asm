@@ -7,7 +7,7 @@ movem.w D4-D6, $MOVEM_STORAGE
 
 move.w #37, D4  ; columns set for dba
 clearColumn:
-move.w #$7028, D5 ; upper corner, base address
+move.w #$7027, D5 ; upper corner, base address
 move.w D4, D6     ; copy it for multiplying
 mulu.w #$20, D6 
 add.w D6, D5      ; D5 now has the starting address for the column

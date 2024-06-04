@@ -1,3 +1,9 @@
-ROBERT
+Robert
 
-TODO
+QCF+P           Ryuugeki Ken (FB)
+DP+P            Ryuuga (AA)
+QCB+K (in air)  Hien Ryuujin Kyaku
+HCB+K           Genei Kyaku
+cDB,F+K         Hien Shippu Kyaku
+F,HCF+P         Haoh Shou Kok Ken (FB)
+QCF,HCB+C       Ryuuko Ranbu (DM)

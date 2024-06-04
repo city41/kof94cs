@@ -1,3 +1,6 @@
-HEAVY D!
+Heavy D
 
-TODO
+DP+P       Rolling Soul Diver
+HCF+P      Soul Flower
+QCF,UF+P   Blast Upper
+QCF,HCB+C  D. Crazy

@@ -1,3 +1,6 @@
-BENIMARU
+Benimaru
 
-TODO
+DP+P       Raijin Ken
+QCF+K      Iai Geri
+HCB+K      Shinkuu Katategoma
+QCF,QCF+C  Raikou Ken (DM)

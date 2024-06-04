@@ -1,3 +1,9 @@
-TAKUMA
+Takuma
 
-TODO
+QCF+P           Ko'ou Ken (FB)
+QCF+P (in air)  Ko'ou Ken (FB)
+HCB+P           Zanretsuken
+cDB,F+K         Hien Shippuu Kyaku
+HCB+K           Shouran Kyaku
+F,HCF+P         Haoh Shou Kok Ken (FB)
+QCF,B,F+AC      Ryuuko Ranbu (DM)

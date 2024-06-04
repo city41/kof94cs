@@ -1,3 +1,6 @@
-KYO
+Kyo
 
-TODO
+QCF+P      Shiki-Yami Barai (FB)
+DP+P       Shiki-Oniyaki (AA)
+RDP+K      Shiki-Oboro Guruma
+QCB,HCF+C  Shiki-Orochinagi (DM)

@@ -1,3 +1,7 @@
-HEIDERN
+Heidern
 
-TODO
+cB,F+P  Cross Cutter (FB)
+cd,U+P  Moon Slasher (AA)
+cD,U+K  Neck Roller
+HCB+C   Storm Bringer
+cBC     Final Bringer (DM)

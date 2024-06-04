@@ -1,3 +1,6 @@
-CHIN
+Chin
 
-TODO
+QCB+P      Hyoutan Geki
+RDP+P      Ryuu Rin Hou Rai
+HCF+K      Kaiten Teki Kuu Totsu Ken
+QCF,QCF+C  Gou Ran Enpou (DM)

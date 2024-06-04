@@ -1,3 +1,6 @@
-CLARK
+Clark
 
-TODO
+tap P      Vulcan Punch
+cB,F+P     Gatling Attack
+HCF+D      Super Argentine Backbreaker
+HCB,HBC+C  Ultra Argentine Backbreaker (DM)

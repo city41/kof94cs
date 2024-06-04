@@ -1,3 +1,6 @@
-CHOI
+Choi
 
-TODO
+cB,F+P  Kaiten Hien Zan
+cD,U+P  Tatsumaki Shippu Zan (AA)
+cD,U+K  Hishou Kuu Retsu Zan
+cBC     Shin! Chouzetsu Shinkuu Zan (DM)
