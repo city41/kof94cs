@@ -2,7 +2,7 @@
   "description": "Writes a letter during pause",
   "subroutineSpace": {
     "start": "97000",
-    "end": "bfff0"
+    "end": "9e000"
   },
   "symbols": {
     "BIOS_PLAYER_MOD1": "10fdb6",
