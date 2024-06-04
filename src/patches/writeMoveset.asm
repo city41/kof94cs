@@ -26,6 +26,8 @@ bra doneLoadPlayerPointer
 loadPlayer2:
 ;; we already know p1 is not playing
 ;; single player, p2 game
+clr.w D0
+move.b $108171, D0 ; load player 1's current character's ID
 move.b $108371, D0 ; load player 2's current character's ID
 add.w D0, D0  ; quadruple it as the table is of longs
 add.w D0, D0  ; quadruple it as the table is of longs
