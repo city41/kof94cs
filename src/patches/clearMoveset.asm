@@ -7,11 +7,11 @@ movem.w D4-D6, $MOVEM_STORAGE
 
 move.w #37, D4  ; columns set for dba
 clearColumn:
-move.w #$7027, D5 ; upper corner, base address
+move.w #$7031, D5 ; upper corner, base address
 move.w D4, D6     ; copy it for multiplying
 mulu.w #$20, D6 
 add.w D6, D5      ; D5 now has the starting address for the column
-move.w #20, D6  ; rows set for dba 
+move.w #9, D6  ; rows set for dba 
 clearTile:
 move.w D5, $3c0000    ; VRAMADDR
 move.w #$f20, $3c0002 ; VRAMRW
