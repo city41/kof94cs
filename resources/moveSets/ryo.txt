@@ -6,4 +6,4 @@ DP+P            Kohou (AA)
 HCB+P           Zan Retsu Ken
 cDB,F+K         Hien Shippuu Kyaku
 F,HCF+P         Haoh Shou Koh Ken (FB)
-QCF,HCB+C       Ryuuko Ranbu
+QCF,HCB+C       Ryuuko Ranbu (DM)

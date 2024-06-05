@@ -5,4 +5,4 @@ F,B,F,DF,D+K  Double Strike (FB)
 QCB+K         Moushuu Kyaku
 RDP+K         Tornado Kick
 DP+K          Trap Shot
-B,HCB+BD      Illusion Dance
+B,HCB+BD      Illusion Dance (DM)
