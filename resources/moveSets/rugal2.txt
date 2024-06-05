@@ -1,8 +1,7 @@
 Rugal Second Form
 
-QCF+P      Reppuken
-F,HCF+P    Kaiser Wave
-DP+K       Genocide Cutter
-QCF+K      Dark Barrier
-HCB+P      God Press
-QCF,HCB+P  Gigantic Pressure (DM)
+QCF+P       Reppuken
+QCB+P       Kaiser Wave
+QCF+K       Genocide Cutter
+QCB+K       Dark Barrier
+F,HCF+C     Gigantic Pressure
