@@ -1,7 +1,7 @@
 Mai
 
-QCF+P      Kachosen (FB)
-QCB+P      Ruy Enbu
-cD,U+C     Musasabi no Mai
-HCF+K      Hissatus Shinobibachi
-F,DB,F+BC  Chou Hissatsu Shinobibachi (DM)
+QCF+P     Kachosen (FB)
+QCB+P     Ruy Enbu
+cD,U+C    Musasabi no Mai
+HCF+K     Hissatus Shinobibachi
+F,DB,F+BC ChouHissatsu Shinobibachi(DM)

@@ -1,6 +1,6 @@
 Clark
 
-tap P      Vulcan Punch
-cB,F+P     Gatling Attack
-HCF+D      Super Argentine Backbreaker (CG)
-HCB,HBC+C  Ultra Argentine Backbreaker (DM, CG)
+tap P     Vulcan Punch
+cB,F+P    Gatling Attack
+HCF+D     S. Argentine Backbreaker(CG)
+HCB,HBC+C U. Argentine Backbreaker(DM)

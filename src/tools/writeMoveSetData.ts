@@ -12,6 +12,9 @@ function toFixAsm(input: string): string {
   for (let y = 0; y < lines.length; ++y) {
     const startingAddress = FIX_STARTING_ADDRESS + y;
     const line = lines[y];
+    if (line.trim().length > 39) {
+      throw new Error(`line too long (${line.trim().length}): ${line}`);
+    }
     for (let x = 0; x < FIX_LINE_LENGTH; ++x) {
       const c = line[x] ?? " ";
 

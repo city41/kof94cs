@@ -1,7 +1,7 @@
 Goro
 
-DP+P       Jirai Shin
-QCB+K      Chou Ukemi
-HCB,F+C    Tenchi Gaeshi (CG)
-F,HCF+D    Chou Ousoto Gari (CG)
-HCB,HCB+C  Jigoku Gokuraku Otoshi (DM, CG)
+DP+P      Jirai Shin
+QCB+K     Chou Ukemi
+HCB,F+C   Tenchi Gaeshi (CG)
+F,HCF+D   Chou Ousoto Gari (CG)
+HCB,HCB+C Jigoku Gokuraku Otoshi(DM,CG)

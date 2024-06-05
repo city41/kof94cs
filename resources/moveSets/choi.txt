@@ -1,6 +1,6 @@
 Choi
 
-cB,F+P        Kaiten Hien Zan
-cD,U+P        Tatsumaki Shippu Zan (AA)
-cD,U+K        Hishou Kuu Retsu Zan
-cB,DB,D,U+BC  Shin! Chouzetsu Shinkuu Zan (DM)
+cB,F+P       Kaiten Hien Zan
+cD,U+P       Tatsumaki Shippu Zan (AA)
+cD,U+K       Hishou Kuu Retsu Zan
+cB,DB,D,U+BC ShinChouzetsuShinkuZan(DM)

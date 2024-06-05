@@ -1,7 +1,7 @@
 Athena
 
-D+D (in air)    Phoenix Bomb
-QCB+P           Psycho Ball (FB)
-HCF+K           Pyscho Reflector
-QCB+P (in air)  Phoenix Arrow
-B,HCB,UB+BC     Shining Crystal Bit (DM)
+D+D (in air)   Phoenix Bomb
+QCB+P          Psycho Ball (FB)
+HCF+K          Pyscho Reflector
+QCB+P (in air) Phoenix Arrow
+B,HCB,UB+BC    Shining Crystal Bit(DM)
