@@ -7,8 +7,8 @@
   "symbols": {
     "BIOS_PLAYER_MOD1": "10fdb6",
     "BIOS_PLAYER_MOD2": "10fdb7",
-    "MOVEM_STORAGE": "10f500",
-    "WROTE_A_MOVESET": "10f600"
+    "MOVEM_STORAGE": "10e500",
+    "WROTE_A_MOVESET": "10e600"
   },
   "patches": [
     {
