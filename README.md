@@ -4,7 +4,8 @@
 
 A ROM hack that shows the special moves for the current player when you pause the game
 
-Requirements:
+## How to use
 
-- Playing in AES mode (as MVS mode does not have pause)
-- a single player game (versus mode won't show the moves)
+You must be playing in AES/home mode. That is because you can't pause the game in MVS/arcade mode.
+
+When you paused the game, whichever player paused the game will have their moveset shown. This works in single player and versus modes.

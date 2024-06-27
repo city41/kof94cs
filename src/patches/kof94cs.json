@@ -8,7 +8,8 @@
     "BIOS_PLAYER_MOD1": "10fdb6",
     "BIOS_PLAYER_MOD2": "10fdb7",
     "MOVEM_STORAGE": "10e500",
-    "WROTE_A_MOVESET": "10e600"
+    "WROTE_A_MOVESET": "10e600",
+    "WHO_PAUSED_LAST": "10e602"
   },
   "patches": [
     {
@@ -235,6 +236,31 @@
         "bne done",
         "jsr $2CLEAR_MOVESET",
         "move.b #0, $WROTE_A_MOVESET",
+        "done:",
+        "rts"
+      ]
+    },
+    {
+      "type": "prom",
+      "description": "Note which player paused the game",
+      "address": "132dca",
+      "subroutine": true,
+      "symbol": "STORE_WHO_PAUSED",
+      "patchAsm": [
+        ";; restore what was clobbered",
+        "move.b $380000, D0",
+        "tst.b $108786 ; is the game paused?",
+        "beq done ; no? then dont update the flag",
+        "btst #1, D0",
+        "beq playerOneDidIt",
+        "btst #3, D0",
+        "beq playerTwoDidIt",
+        "bra done",
+        "playerOneDidIt:",
+        "move.b #1, $WHO_PAUSED_LAST",
+        "bra done",
+        "playerTwoDidIt:",
+        "move.b #2, $WHO_PAUSED_LAST",
         "done:",
         "rts"
       ]
