@@ -218,12 +218,10 @@
     {
       "type": "prom",
       "description": "write moveset hook",
-      "address": "105f16",
+      "address": "132ba4",
       "subroutine": true,
       "symbol": "WRITE_MOVESET_HOOK",
       "patchAsm": [
-        ";; restore what was clobbered",
-        "move.l D0, $3c0000",
         "tst.b $108786",
         "beq clear",
         ";; game is paused",
@@ -237,6 +235,8 @@
         "jsr $2CLEAR_MOVESET",
         "move.b #0, $WROTE_A_MOVESET",
         "done:",
+        ";; restore what was clobbered",
+        "lea $108000, A5",
         "rts"
       ]
     },
