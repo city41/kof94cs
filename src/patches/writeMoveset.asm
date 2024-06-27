@@ -15,6 +15,10 @@ cmpi.b #1, $BIOS_PLAYER_MOD2
 bne loadPlayer1 ; ok single player mode, go load p1
 
 ;; ok this is versus mode
+;; if we don't yet know who paused, don't do anything
+;; we will know on the next frame, so no worries
+cmpi.b #0, $WHO_PAUSED_LAST
+beq done
 ;; in versus mode, we will load the moveset of whoever paused the game
 cmpi.b #1, $WHO_PAUSED_LAST
 beq loadPlayer1
